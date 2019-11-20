@@ -1,0 +1,17 @@
+body{
+    background-color: brown;
+}
+
+header{
+    background-color: blueviolet;
+}
+
+/* CLASS E ID */
+
+#navbar{
+    color: cadetblue;
+}
+
+.titulo{
+    color: crimson;
+}
