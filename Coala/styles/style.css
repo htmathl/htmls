@@ -1,0 +1,50 @@
+html, body {
+    height: 100%;
+    min-height: 100%;
+}
+
+body {
+    background-color: lightseagreen;
+    margin: auto;   
+}
+
+.lista {
+    list-style: none;
+    display: flex;
+    background-color: teal;
+    justify-content: space-around;
+    padding-top: 2px;
+}
+li {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    padding: 5px;
+}
+
+#image {
+    background-image: url('../images/koala.gif');
+    width: 500px;
+    height: 250px;
+}
+
+#celula {
+    font-stretch: condensed;
+}
+
+b {
+    font-size: 60px;
+}
+
+.sessao {
+    text-align: justify;
+    font-size: 20px;
+    margin: auto ;
+    width: 70%;
+    background-color: teal;
+    padding: 5px;
+}
+p{
+    text-align: center;
+}
